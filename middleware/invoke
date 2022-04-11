@@ -5,4 +5,4 @@
 #
 /usr/bin/invoke_app "$@" -t chempropdemo \
                          -C "start_jupyter -t -T @tool chempropdemo.ipynb" \
-                         -u anaconda-6
+                         -u anaconda-7

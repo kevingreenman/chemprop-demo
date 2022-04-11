@@ -1,3 +1,2 @@
 *.ipynb_checkpoints
-src/test_checkpoints/
-src/test_preds.csv
+src/test*

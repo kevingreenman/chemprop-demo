@@ -1,5 +1,3 @@
-# hubtooljupytertemplate
-Repository template for Jupyter HUBzero tool
+# Chemprop nanoHUB Demo
 
-.keep files are present to force git to track initially empty directories.
-Should the directories become populated the .keep file can be removed.
+This is the source code for a [nanoHUB tool](https://nanohub.org/tools/chempropdemo) that demonstrates how to use [Chemprop](https://github.com/chemprop/chemprop) within Python (in a Jupyter notebook).
